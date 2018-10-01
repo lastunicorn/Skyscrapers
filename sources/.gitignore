@@ -1,0 +1,10 @@
+.vs
+*.suo
+bin/
+obj/
+*.user
+packages/
+*.TMP
+*.nupkg
+ExternalLibraries/
+.vs/

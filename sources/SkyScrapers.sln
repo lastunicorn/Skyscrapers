@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2047
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Skyscrapers.Cli", "SkyScrapers.Cli\Skyscrapers.Cli.csproj", "{E1569D0C-91A5-4CCD-8792-8016097F7EFB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Skyscrapers", "Skyscrapers\Skyscrapers.csproj", "{94A16725-ED42-4281-8763-DE3060838315}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E1569D0C-91A5-4CCD-8792-8016097F7EFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1569D0C-91A5-4CCD-8792-8016097F7EFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1569D0C-91A5-4CCD-8792-8016097F7EFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1569D0C-91A5-4CCD-8792-8016097F7EFB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94A16725-ED42-4281-8763-DE3060838315}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94A16725-ED42-4281-8763-DE3060838315}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94A16725-ED42-4281-8763-DE3060838315}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94A16725-ED42-4281-8763-DE3060838315}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BD8895F3-C921-40D5-A624-A3707FE9EE23}
+	EndGlobalSection
+EndGlobal
